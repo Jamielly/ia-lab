@@ -1,4 +1,4 @@
-# Laboratório em desenvolvimento e aprendizado em IA
+# Laboratório em desenvolvimento - estudos sobre IA
 ### ML, DL, NLP, LLM e deploy
 
 Abaixo, liste cinco projetos representando minha jornada de aprendizado e prática em IA:
@@ -13,4 +13,6 @@ Abaixo, liste cinco projetos representando minha jornada de aprendizado e práti
 
 -  Análise de Sentimentos e Tópicos – uso de NLP para extrair insights de avaliações e opiniões.
 
-## “Acredito que o futuro da tecnologia está em unir inteligência humana e artificial de forma ética, segura e criativa.”
+### “Acredito que o futuro da tecnologia está em unir inteligência humana e artificial de forma ética, segura e criativa.”
+
+<p align="center">Feito com :heart: & 🧠</p>
